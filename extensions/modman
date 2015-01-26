@@ -1,0 +1,5 @@
+# add Magento Extensions
+extensions/local app/code/local
+
+#
+@shell echo "Hello World"
